@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi there, I'm Haeru 👋
+## About me:
+- 🔭 I’m currently working at Pt. Hydraxle perkasa
+- 🌱 I’m currently learning Javascript
+- 💬 Ask me about anything
+- 📫 How to reach me: haeru.user16@gmail.com
 
-<!--
-**Haeruuser/Haeruuser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Education:
 
-Here are some ideas to get you started:
+ #### 2. [SMK MANDIRI 2 BALARJA](https://www.smkmandiri2balaraja.sch.id/) | MULTIMEDIA | BALARAJA `2013-2016`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Work Experience:
+#### 1. [PT. TAKAGI SARI MULTI UTAMA](https://www.tsmu.co.id/) | Production Operator | Cikarang `March'2017 - August 2019`
+   - operate a plastic injection molding machine
+   - Responsible for increasing and realizing production according to the target
+  
+---
